@@ -1,0 +1,25 @@
+{
+  "name": "mypulumi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishu22bd/mypulumi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishu22bd/mypulumi/issues"
+  },
+  "homepage": "https://github.com/mishu22bd/mypulumi#readme",
+  "dependencies": {
+    "@pulumi/aws": "^6.75.0",
+    "@pulumi/awsx": "^2.21.1",
+    "@pulumi/pulumi": "^3.160.0"
+  }
+}
