@@ -1,0 +1,6 @@
+config:
+  Lab8_1209:errorDocument: error.html
+  Lab8_1209:indexDocument: index.html
+  Lab8_1209:path: ./www
+  aws:region: us-west-1
+  pulumi:template: static-website-aws-typescript
