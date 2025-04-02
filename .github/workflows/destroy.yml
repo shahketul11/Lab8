@@ -22,5 +22,5 @@ jobs:
       - uses: pulumi/actions@v5
         with:
           command: destroy
-          stack-name: shahketul11/myworkshop/Lab8
+          stack-name: shahketul11/Lab8_1209/Lab8
           work-dir: ./ppinfra
